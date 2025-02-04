@@ -209,6 +209,13 @@
             <mxPoint x="1005" y="561.08" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sEsgE9jjAUsGSZsPWNn8-10" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;Pull Trigger on nozzle&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;exitX=0.7;exitY=0.068;exitDx=0;exitDy=0;exitPerimeter=0;targetPerimeterSpacing=0;" edge="1" parent="1">
+          <mxGeometry x="0.0105" relative="1" as="geometry">
+            <mxPoint x="160" y="740" as="sourcePoint" />
+            <mxPoint x="1005" y="740" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

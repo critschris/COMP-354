@@ -76,7 +76,7 @@
         <mxCell id="7baba1c4bc27f4b0-6" value="FuelManager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="820" y="80" width="100" height="740" as="geometry" />
         </mxCell>
-        <mxCell id="sEsgE9jjAUsGSZsPWNn8-6" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;EndOilPump()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=6;" edge="1" parent="7baba1c4bc27f4b0-6">
+        <mxCell id="sEsgE9jjAUsGSZsPWNn8-6" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;EndOilPump()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=6;" edge="1" parent="7baba1c4bc27f4b0-6">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="45" y="580" as="sourcePoint" />
             <mxPoint x="185" y="580" as="targetPoint" />

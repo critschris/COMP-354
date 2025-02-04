@@ -149,7 +149,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="67eGQXLDQbUscURLAilL-14" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="520" width="1030" height="280" as="geometry" />
+          <mxGeometry x="50" y="501" width="1030" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -76,6 +76,12 @@
         <mxCell id="7baba1c4bc27f4b0-7" value="Nozzle" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="960" y="80" width="100" height="740" as="geometry" />
         </mxCell>
+        <mxCell id="iSL0mZkJpwUw8I5giGHB-14" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;PumpOil()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=6;" edge="1" parent="7baba1c4bc27f4b0-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-90" y="440" as="sourcePoint" />
+            <mxPoint x="50" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7baba1c4bc27f4b0-8" value="User" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;collapsible=0;recursiveResize=0;outlineConnect=0;rounded=1;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
           <mxGeometry x="100" y="80" width="100" height="740" as="geometry" />
         </mxCell>
@@ -142,14 +148,8 @@
             <mxPoint x="725.5" y="330" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iSL0mZkJpwUw8I5giGHB-14" value="&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;PumpOil()&lt;/span&gt;" style="html=1;verticalAlign=bottom;endArrow=open;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=0;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;endSize=6;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870" y="500" as="sourcePoint" />
-            <mxPoint x="1010" y="500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="67eGQXLDQbUscURLAilL-14" value="Loop" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" parent="1" vertex="1">
-          <mxGeometry x="50" y="501" width="1030" height="280" as="geometry" />
+          <mxGeometry x="60" y="493" width="1030" height="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

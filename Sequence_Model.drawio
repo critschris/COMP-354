@@ -216,6 +216,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sEsgE9jjAUsGSZsPWNn8-11" value="Until fuel&amp;nbsp;&lt;div&gt;amount&amp;nbsp;&lt;/div&gt;&lt;div&gt;reached&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="520" width="70" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

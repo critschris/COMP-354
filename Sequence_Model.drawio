@@ -155,6 +155,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="sEsgE9jjAUsGSZsPWNn8-1" value="&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;DisplayApprove&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255);&quot;&gt;Message()&lt;/span&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;endSize=8;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=0;" edge="1" parent="1">
+          <mxGeometry x="-0.1538" relative="1" as="geometry">
+            <mxPoint x="435" y="565" as="targetPoint" />
+            <mxPoint x="865" y="566.08" as="sourcePoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

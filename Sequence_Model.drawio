@@ -126,12 +126,9 @@
             <mxPoint x="590" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="67eGQXLDQbUscURLAilL-10" value="ChargeAmount()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" parent="1" edge="1">
+        <mxCell id="67eGQXLDQbUscURLAilL-10" value="ChargeAmount()" style="html=1;verticalAlign=bottom;endArrow=block;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="595" y="420" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="600" y="420" />
-            </Array>
+            <mxPoint x="600" y="420" as="sourcePoint" />
             <mxPoint x="725" y="420" as="targetPoint" />
           </mxGeometry>
         </mxCell>

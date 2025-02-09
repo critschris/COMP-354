@@ -44,12 +44,12 @@
         </mxCell>
         <mxCell id="wNK25TrjUgxfLg_-dszQ-1" value="Enters Quantities for Items" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.43;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;sourcePerimeterSpacing=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="155" y="320.1" as="sourcePoint" />
-            <mxPoint x="325" y="320.0000000000001" as="targetPoint" />
+            <mxPoint x="155" y="400.1" as="sourcePoint" />
+            <mxPoint x="325" y="400.0000000000001" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="wNK25TrjUgxfLg_-dszQ-2" value="Alternative" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
-          <mxGeometry x="120" y="140" width="440" height="160" as="geometry" />
+          <mxGeometry x="120" y="140" width="440" height="220" as="geometry" />
         </mxCell>
         <mxCell id="wNK25TrjUgxfLg_-dszQ-3" value="" style="endArrow=none;html=1;rounded=0;entryX=1.007;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -59,8 +59,8 @@
         </mxCell>
         <mxCell id="wNK25TrjUgxfLg_-dszQ-4" value="" style="endArrow=none;html=1;rounded=0;exitX=-0.002;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1.007;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="120" y="250" as="sourcePoint" />
-            <mxPoint x="560" y="250" as="targetPoint" />
+            <mxPoint x="120" y="280" as="sourcePoint" />
+            <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>

@@ -63,6 +63,12 @@
             <mxPoint x="560" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-5" value="If Item is valid" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-6" value="else" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="160" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -114,7 +114,7 @@
             <mxPoint y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNK25TrjUgxfLg_-dszQ-19" value="Gives OK to Items" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wNK25TrjUgxfLg_-dszQ-17">
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-19" value="Gives ERROR message" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wNK25TrjUgxfLg_-dszQ-17">
           <mxGeometry x="10" width="150" height="30" as="geometry" />
         </mxCell>
       </root>

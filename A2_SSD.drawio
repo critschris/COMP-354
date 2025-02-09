@@ -38,17 +38,17 @@
         <mxCell id="wNK25TrjUgxfLg_-dszQ-22" value="Go to step 1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="7baba1c4bc27f4b0-8">
           <mxGeometry x="-40" y="210" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-11" value="Enters new Items" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-11" value="Enters new Items" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=0;" parent="1" source="7baba1c4bc27f4b0-9" target="7baba1c4bc27f4b0-10" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7baba1c4bc27f4b0-14" value="Validate Items" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
+        <mxCell id="7baba1c4bc27f4b0-14" value="Validate Items" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;endFill=0;" parent="1" source="7baba1c4bc27f4b0-10" target="7baba1c4bc27f4b0-13" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="370" y="200" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="wNK25TrjUgxfLg_-dszQ-1" value="Enters Quantities for Items" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.43;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;sourcePerimeterSpacing=0;" edge="1" parent="1">
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-1" value="Enters Quantities for Items" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0.1;entryY=0.43;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;sourcePerimeterSpacing=0;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="155" y="400.1" as="sourcePoint" />
             <mxPoint x="325" y="400.0000000000001" as="targetPoint" />
@@ -167,6 +167,18 @@
         </mxCell>
         <mxCell id="wNK25TrjUgxfLg_-dszQ-34" value="Reserves&lt;div&gt;equipment&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="370" y="530" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-35" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="155" y="580" width="170" height="30.019999999999982" as="geometry" />
+        </mxCell>
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-36" value="" style="endArrow=open;html=1;rounded=0;entryX=1;entryY=0.226;entryDx=0;entryDy=0;entryPerimeter=0;dashed=1;endFill=0;" edge="1" parent="wNK25TrjUgxfLg_-dszQ-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="170" y="30.019999999999982" as="sourcePoint" />
+            <mxPoint y="30" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-37" value="Returns confirmation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="wNK25TrjUgxfLg_-dszQ-35">
+          <mxGeometry x="10" width="150" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

@@ -149,7 +149,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hRmexJPZBGSZew1TgqO-34" value="Checks availability" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3hRmexJPZBGSZew1TgqO-34" value="CheckAvailability()" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="460" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3hRmexJPZBGSZew1TgqO-35" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;align=center;" parent="1" vertex="1">
@@ -165,7 +165,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hRmexJPZBGSZew1TgqO-37" value="Reserves&lt;div&gt;equipment&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="3hRmexJPZBGSZew1TgqO-37" value="ReserveE&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;quipment()&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="530" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3hRmexJPZBGSZew1TgqO-38" value="" style="group" parent="1" vertex="1" connectable="0">
@@ -177,7 +177,7 @@
             <mxPoint y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="3hRmexJPZBGSZew1TgqO-40" value="Returns confirmation" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3hRmexJPZBGSZew1TgqO-38" vertex="1">
+        <mxCell id="3hRmexJPZBGSZew1TgqO-40" value="ConfirmationMessage()" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="3hRmexJPZBGSZew1TgqO-38" vertex="1">
           <mxGeometry x="10" width="150" height="30" as="geometry" />
         </mxCell>
       </root>

@@ -12,7 +12,7 @@
         </mxCell>
         <mxCell id="wNK25TrjUgxfLg_-dszQ-1" value="Enters Quantities for Items" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.43;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;sourcePerimeterSpacing=0;" edge="1" parent="7baba1c4bc27f4b0-2">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-86" y="150.1" as="sourcePoint" />
+            <mxPoint x="-125" y="150.1" as="sourcePoint" />
             <mxPoint x="45" y="150.00000000000009" as="targetPoint" />
           </mxGeometry>
         </mxCell>

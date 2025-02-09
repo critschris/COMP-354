@@ -42,6 +42,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="wNK25TrjUgxfLg_-dszQ-1" value="Enters new Items" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0.1;entryY=0.43;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;elbow=vertical;entryDx=0;entryDy=0;entryPerimeter=0;sourcePerimeterSpacing=0;" edge="1" parent="1" target="7baba1c4bc27f4b0-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="155" y="279" as="sourcePoint" />
+            <mxPoint x="280" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

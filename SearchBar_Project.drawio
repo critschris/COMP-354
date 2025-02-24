@@ -40,6 +40,9 @@
             <mxPoint x="220" y="190" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="Q1Zf_UAmxEGW7UBCuXNI-3" value="2. Set Query String" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="210" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>

@@ -76,7 +76,7 @@
         <mxCell id="2dSOnyeyWV44-VoQbwDo-16" value="Initializes Button" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="190" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="2dSOnyeyWV44-VoQbwDo-19" value="&lt;font face=&quot;Helvetica&quot;&gt;Selects A&amp;nbsp;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;Search Option&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;" edge="1" parent="1">
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-19" value="&lt;font face=&quot;Helvetica&quot;&gt;SendUserOption()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="295" y="270" as="sourcePoint" />
             <mxPoint x="445" y="270.03" as="targetPoint" />

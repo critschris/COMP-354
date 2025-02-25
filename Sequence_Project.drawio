@@ -89,6 +89,18 @@
         <mxCell id="2dSOnyeyWV44-VoQbwDo-9" value="return" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2dSOnyeyWV44-VoQbwDo-10">
           <mxGeometry x="55" width="60" height="20" as="geometry" />
         </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-27" value="" style="group" vertex="1" connectable="0" parent="2dSOnyeyWV44-VoQbwDo-5">
+          <mxGeometry x="-125" y="450" width="170" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-28" value="" style="endArrow=none;html=1;rounded=0;startArrow=block;startFill=1;dashed=1;" edge="1" parent="2dSOnyeyWV44-VoQbwDo-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint y="20" as="sourcePoint" />
+            <mxPoint x="170" y="20" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-29" value="return" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2dSOnyeyWV44-VoQbwDo-27">
+          <mxGeometry x="55" width="60" height="20" as="geometry" />
+        </mxCell>
         <mxCell id="2dSOnyeyWV44-VoQbwDo-7" value="Information Expert" style="shape=note;whiteSpace=wrap;html=1;size=14;verticalAlign=top;align=left;spacingTop=-6;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12" vertex="1" parent="1">
           <mxGeometry x="750" y="30" width="100" height="35" as="geometry" />
         </mxCell>
@@ -109,6 +121,27 @@
         </mxCell>
         <mxCell id="2dSOnyeyWV44-VoQbwDo-23" value="Set Query String" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="640" y="300" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-25" value="&lt;font face=&quot;Helvetica&quot;&gt;GetDataByProjectName()&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;or&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font face=&quot;Helvetica&quot;&gt;GetDataByCVEID()&lt;/font&gt;&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;endFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="455" y="480.08" as="sourcePoint" />
+            <mxPoint x="615" y="480.10999999999996" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-26" value="&lt;font face=&quot;Helvetica&quot;&gt;GetFirstTenMatchingData()&lt;/font&gt;" style="html=1;verticalAlign=bottom;endArrow=block;entryX=0;entryY=0;labelBackgroundColor=none;fontFamily=Verdana;fontSize=12;edgeStyle=elbowEdgeStyle;elbow=vertical;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="625" y="510" as="sourcePoint" />
+            <mxPoint x="795" y="510.03" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-32" value="" style="endArrow=none;html=1;rounded=0;startArrow=block;startFill=1;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="455" y="580" as="sourcePoint" />
+            <mxPoint x="616" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2dSOnyeyWV44-VoQbwDo-33" value="return" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="501" y="560" width="60" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>

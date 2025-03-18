@@ -53,7 +53,7 @@
           <mxGeometry y="60" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OFK6M28kwdeZKcRMnIBn-20" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=35;" vertex="1" parent="1">
-          <mxGeometry x="380" y="186" width="20" height="30" as="geometry" />
+          <mxGeometry x="380" y="190" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="OFK6M28kwdeZKcRMnIBn-21" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="260" y="186" width="20" height="30" as="geometry" />

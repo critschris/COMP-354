@@ -33,7 +33,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-9" value="Store" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="240" width="140" height="30" as="geometry" />
+          <mxGeometry x="80" y="270" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2uCwENdU8odczXJO0P9R-13" target="2uCwENdU8odczXJO0P9R-28">
           <mxGeometry relative="1" as="geometry" />
@@ -50,7 +50,7 @@
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-21" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="220" y="260" width="140" height="30" as="geometry" />
+          <mxGeometry x="212.5" y="260" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-18" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="2uCwENdU8odczXJO0P9R-21">
           <mxGeometry width="60" height="30" as="geometry" />
@@ -62,25 +62,25 @@
           <mxGeometry x="40" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-25" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="326" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="300" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-26" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="380" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-27" value="HAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="350" width="60" height="30" as="geometry" />
+          <mxGeometry x="140" y="330" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-28" value="Goods" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="560" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-34" value="1" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="480" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="450" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-35" value="Contains" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="510" width="60" height="30" as="geometry" />
+          <mxGeometry x="152.5" y="490" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-37" value="*" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="540" width="60" height="30" as="geometry" />
+          <mxGeometry x="130" y="538" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-39" value="Talks to" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="425" y="190" width="60" height="30" as="geometry" />

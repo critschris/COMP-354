@@ -105,7 +105,7 @@
           <mxGeometry x="425" y="190" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-41" value="&lt;div&gt;&amp;lt;&amp;lt;Strategy&amp;gt;&amp;gt;&lt;/div&gt;ObtainingGoods" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=46;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="352.5" y="514" width="160" height="72" as="geometry" />
+          <mxGeometry x="352.5" y="530" width="160" height="72" as="geometry" />
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-44" value="+ getGoods(type): type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2uCwENdU8odczXJO0P9R-41">
           <mxGeometry y="46" width="160" height="26" as="geometry" />

@@ -50,6 +50,11 @@
         <mxCell id="2uCwENdU8odczXJO0P9R-13" value="Storage" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="400" width="160" height="86" as="geometry" />
         </mxCell>
+        <mxCell id="2uCwENdU8odczXJO0P9R-85" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=1;startArrow=classic;" edge="1" parent="2uCwENdU8odczXJO0P9R-13" source="2uCwENdU8odczXJO0P9R-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="38.99999999999977" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-14" value="+ field: type" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" vertex="1" parent="2uCwENdU8odczXJO0P9R-13">
           <mxGeometry y="26" width="160" height="26" as="geometry" />
         </mxCell>
@@ -79,11 +84,6 @@
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-27" value="HAS" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="150" y="350" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="2uCwENdU8odczXJO0P9R-83" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;startFill=1;startArrow=classicThin;" edge="1" parent="1" source="2uCwENdU8odczXJO0P9R-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="150" y="700" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-28" value="Goods" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="70" y="560" width="160" height="86" as="geometry" />
@@ -195,12 +195,18 @@
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-81" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="150" y="700" as="sourcePoint" />
+            <mxPoint x="280" y="700" as="sourcePoint" />
             <mxPoint x="830" y="700" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="2uCwENdU8odczXJO0P9R-84" value="Gets Goods From" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="678" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2uCwENdU8odczXJO0P9R-86" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="700" as="sourcePoint" />
+            <mxPoint x="280" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>

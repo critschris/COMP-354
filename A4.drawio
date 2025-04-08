@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="2uCwENdU8odczXJO0P9R-1" value="&lt;div&gt;&amp;lt;&amp;lt;Facade&amp;gt;&amp;gt;&lt;/div&gt;StoreKeeper" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=40;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="345" y="233" width="175" height="120" as="geometry">
+          <mxGeometry x="345" y="225" width="175" height="120" as="geometry">
             <mxRectangle x="345" y="235" width="110" height="40" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
